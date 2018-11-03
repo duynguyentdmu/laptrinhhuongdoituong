@@ -1,0 +1,12 @@
+#include "SINHVIEN.h"
+
+
+
+SINHVIEN::SINHVIEN()
+{
+}
+
+
+SINHVIEN::~SINHVIEN()
+{
+}

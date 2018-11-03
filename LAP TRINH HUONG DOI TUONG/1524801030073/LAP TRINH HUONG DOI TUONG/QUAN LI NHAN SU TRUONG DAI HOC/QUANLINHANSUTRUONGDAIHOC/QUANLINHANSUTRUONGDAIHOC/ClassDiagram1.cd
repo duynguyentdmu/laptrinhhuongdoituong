@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GIAOVIEN" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAkAAAAABAAAAAAAAA=</HashCode>
+      <FileName>GIAOVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HOCPHAN" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAABAABAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>HOCPHAN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NGAY" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAAAAAAAJAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>NGAY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NHANVIEN" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAIAAAAEAAAQAAAACAAAIAAAAAAAAAAAIAA=</HashCode>
+      <FileName>NHANVIEN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NHANVIENHC" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAEAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NHANVIENHC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLINHANSU" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAICAAAAAICAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>QUANLINHANSU.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

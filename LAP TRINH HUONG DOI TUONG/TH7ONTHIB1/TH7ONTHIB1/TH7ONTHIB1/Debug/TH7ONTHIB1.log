@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  QUANLIDOCGIA.cpp
+  Generating Code...
+d:\project visual\lap trinh huong doi tuong\th7onthib1\th7onthib1\th7onthib1\quanlidocgia.cpp(75): warning C4715: 'operator<<': not all control paths return a value
+d:\project visual\lap trinh huong doi tuong\th7onthib1\th7onthib1\th7onthib1\quanlidocgia.cpp(53): warning C4715: 'operator>>': not all control paths return a value
+  TH7ONTHIB1.vcxproj -> D:\PROJECT VISUAL\LAP TRINH HUONG DOI TUONG\TH7ONTHIB1\TH7ONTHIB1\Debug\TH7ONTHIB1.exe
